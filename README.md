@@ -29,9 +29,7 @@ back to the game.</li>
    
    ## Demo
 
-<img src="https://memegenerator.net/img/instances/10961883.jpg">
-
-[![Watch the video](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://www.youtube.com/watch?v=0IJMXW0_dcU)
+[![Watch the video](https://memegenerator.net/img/instances/10961883.jpg)](https://www.youtube.com/watch?v=0IJMXW0_dcU)
 
 ## Autor
 <img src="https://images-na.ssl-images-amazon.com/images/I/51g3O43dUfL.jpg">
