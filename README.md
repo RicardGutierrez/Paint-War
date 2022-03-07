@@ -35,3 +35,4 @@ back to the game.</li>
 
 ## Autor
 <img src="https://images-na.ssl-images-amazon.com/images/I/51g3O43dUfL.jpg">
+and Blai Calero
